@@ -30,3 +30,6 @@ javascript contionals oparetor
 https://www.thatjsdude.com/jsConcepts/concepts/scope.html
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+get vs push
+
+https://www.w3schools.com/tags/ref_httpmethods.asp
